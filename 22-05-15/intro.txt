@@ -1,0 +1,44 @@
+Adobe Photoshop CC (Creative Cloud)
+
+It Is An Image Editing Software.
+
+Types OF Graphic:
+	1) Raster (Pixel Base)
+	2) Vector (Dots Base)
+
+What is Resolution?
+It Defines Image Quality.
+
+Types Of Color:
+	1) RGB (Red Green Blue)
+	2) CMYK (Cyan Margenta Yellow Black)
+
+Working Area : Canvas
+Canvas Size  : 800px X 600px
+
+
+Shortcut Keys:
+New Canvas	:	Ctrl+N
+New Layer	:	Ctrl+Alt+Shift+N
+Free Transform	:	Ctrl+T
+Undo		:	Ctrl+alt+Z
+Save As		:	Ctrl+Shift+S
+Color Fill:
+Foreground Color:	Alt+Backspace/Del or alt+shift+backpace
+Background Color:	Ctrl+Backspace/Del or ctrl+shift+backspace
+Deselect	:	Ctrl+D
+inverse Selection:	Ctrl+Shift+I
+Hue Saturation	:	Ctrl+U
+Layer Panel	:	F7
+Zoom In		:	Ctrl++
+Zoom Out	:	Ctrl+-
+Fit Canvas	:	Ctrl+0
+Reset Image	:	F12
+Merge Layers	:	Ctrl+E
+
+
+
+
+
+
+
